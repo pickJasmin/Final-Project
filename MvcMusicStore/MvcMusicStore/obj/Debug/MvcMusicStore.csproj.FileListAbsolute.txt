@@ -48,6 +48,8 @@ D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\Sy
 D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
 D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
 D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\WebGrease.dll
+D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\EntityFramework.SqlServer.xml
 D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.DependencyCollector.xml
 D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
 D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.Web.xml
@@ -63,8 +65,6 @@ D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\Sy
 D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
 D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\Antlr3.Runtime.pdb
 D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\Newtonsoft.Json.xml
-D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
-D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\EntityFramework.SqlServer.xml
 D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\Microsoft.AspNet.Identity.Core.xml
 D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\Microsoft.AspNet.Identity.Owin.xml
 D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
@@ -77,6 +77,8 @@ D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\Mi
 D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\Microsoft.Owin.Security.Google.xml
 D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\Microsoft.Owin.Security.Twitter.xml
 D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\zh-Hans\EntityFramework.resources.dll
+D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
 D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Helpers.resources.dll
 D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Mvc.resources.dll
 D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Optimization.resources.dll
@@ -84,8 +86,6 @@ D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\zh
 D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.WebPages.resources.dll
 D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
-D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\zh-Hans\EntityFramework.resources.dll
-D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
 D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
 D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
 D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
@@ -96,6 +96,5 @@ D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\zh
 D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
 D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
 D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
-D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
 D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
 D:\漫小画\GitHub本地仓库\Final-Project\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb

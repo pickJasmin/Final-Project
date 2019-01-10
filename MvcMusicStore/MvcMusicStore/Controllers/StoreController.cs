@@ -12,6 +12,7 @@ namespace MvcMusicStore.Controllers
     /// </summary>
     public class StoreController : Controller
     {
+        MusicStoreEntities storeDB = new MusicStoreEntities();
         // GET:存储
         public ActionResult Index()
         {
