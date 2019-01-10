@@ -1,0 +1,21 @@
+﻿@model IEnumerable<MvcMusicStore.Models.Genre>
+@{
+    ViewBag.Title = "Store";
+}
+<h3>浏览类型</h3>
+<p>
+    可选择 @Model.Count()
+    个类型:
+</p>
+<ul>
+    <li>
+        <a href="/Store/Browse?genre=Disco">Disco</a>
+    </li>
+    <li>
+        <a href="/Store/Browse?genre=Jazz">Jazz</a>
+    </li>
+    <li>
+        <a href="/Store/Browse?genre=Rock">Rock</a>
+    </li>
+</ul>
+
