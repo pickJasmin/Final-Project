@@ -1,0 +1,280 @@
+D:\骚\MvcMusicStore\MvcMusicStore\bin\ApplicationInsights.config
+D:\骚\MvcMusicStore\MvcMusicStore\bin\roslyn\csc.exe
+D:\骚\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\骚\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\骚\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\骚\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\骚\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\骚\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\骚\MvcMusicStore\MvcMusicStore\bin\roslyn\System.Collections.Immutable.dll
+D:\骚\MvcMusicStore\MvcMusicStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\骚\MvcMusicStore\MvcMusicStore\bin\roslyn\vbc.exe
+D:\骚\MvcMusicStore\MvcMusicStore\bin\roslyn\VBCSCompiler.exe
+D:\骚\MvcMusicStore\MvcMusicStore\bin\roslyn\VBCSCompiler.exe.config
+D:\骚\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll.config
+D:\骚\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+D:\骚\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+D:\骚\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.Agent.Intercept.dll
+D:\骚\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.DependencyCollector.dll
+D:\骚\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\骚\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\骚\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.Web.dll
+D:\骚\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.WindowsServer.dll
+D:\骚\MvcMusicStore\MvcMusicStore\bin\Microsoft.ApplicationInsights.dll
+D:\骚\MvcMusicStore\MvcMusicStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\骚\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+D:\骚\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+D:\骚\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+D:\骚\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+D:\骚\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.Deployment.dll
+D:\骚\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.dll
+D:\骚\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.Razor.dll
+D:\骚\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.DependencyCollector.xml
+D:\骚\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\骚\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.Web.xml
+D:\骚\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.WindowsServer.xml
+D:\骚\MvcMusicStore\MvcMusicStore\bin\Microsoft.ApplicationInsights.xml
+D:\骚\MvcMusicStore\MvcMusicStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\骚\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+D:\骚\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.xml
+D:\骚\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.Deployment.xml
+D:\骚\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.Razor.xml
+D:\骚\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+D:\骚\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+D:\骚\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\骚\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Webpages.resources.dll
+D:\骚\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+D:\骚\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+D:\骚\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\骚\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\骚\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+D:\骚\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+D:\骚\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+D:\骚\MvcMusicStore\MvcMusicStore\bin\EntityFramework.SqlServer.dll
+D:\骚\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+D:\骚\MvcMusicStore\MvcMusicStore\bin\EntityFramework.SqlServer.xml
+D:\骚\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\ApplicationInsights.config
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\csc.exe
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\System.Collections.Immutable.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\System.Reflection.Metadata.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\vbc.exe
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\VBCSCompiler.exe
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\VBCSCompiler.exe.config
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll.config
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\EntityFramework.SqlServer.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.Agent.Intercept.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.DependencyCollector.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.Web.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.WindowsServer.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.ApplicationInsights.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.Deployment.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.Razor.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\EntityFramework.SqlServer.xml
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.DependencyCollector.xml
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.Web.xml
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.WindowsServer.xml
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.ApplicationInsights.xml
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.xml
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.Deployment.xml
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.Razor.xml
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Webpages.resources.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+E:\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\ApplicationInsights.config
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\csc.exe
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\vbc.exe
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll.config
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\EntityFramework.SqlServer.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.Web.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.Deployment.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.Razor.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\EntityFramework.SqlServer.xml
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.Web.xml
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.xml
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.Deployment.xml
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.Razor.xml
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Webpages.resources.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\钟强\Desktop\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\ApplicationInsights.config
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\csc.exe
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\System.Collections.Immutable.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\System.Reflection.Metadata.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\vbc.exe
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\VBCSCompiler.exe
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\roslyn\VBCSCompiler.exe.config
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll.config
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\EntityFramework.SqlServer.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.Agent.Intercept.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.DependencyCollector.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.Web.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.WindowsServer.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.ApplicationInsights.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.Deployment.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.Razor.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\EntityFramework.SqlServer.xml
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.DependencyCollector.xml
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.Web.xml
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.WindowsServer.xml
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.ApplicationInsights.xml
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.xml
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.Deployment.xml
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.Razor.xml
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Razor.resources.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Webpages.resources.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Helpers.resources.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Mvc.resources.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+I:\VS2015\MVC音乐商店\新建文件夹 (3)\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\ApplicationInsights.config
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll.config
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.Web.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.Deployment.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.Razor.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.Web.xml
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.xml
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.Deployment.xml
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.Razor.xml
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Webpages.resources.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\admin\Desktop\MvcMusicStore\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
